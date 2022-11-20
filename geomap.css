@@ -1,0 +1,42 @@
+/*-----------------------------------------------------------------------------
+Diana Flores
+dgflores
+153469
+CSE 163
+Assignment 7: GeoMapping: Population Density Map
+File: geomap.css
+-----------------------------------------------------------------------------*/
+body{
+    background-color: #FFFEFF;
+}
+
+h1{
+    text-align:center; 
+    color:steelblue;
+}
+
+p{
+    margin: 0;
+    font-weight: bold; 
+}
+
+/*
+.exterior-boundary {
+	fill: none;
+	stroke: black;
+	stroke-linejoin: round;
+	stroke-width: 2px;
+}
+
+div.tooltip {
+	position: absolute;
+	text-align: center;
+	width: 75px;
+	padding: 2px;
+	font: 12px sans-serif;
+	color: white;
+	background: black;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+}*/
