@@ -7,7 +7,10 @@
             {
                "type":"Polygon",
                "id":33001,
-               "name":"Belknap",
+               "properties": {
+                  "NAME":"Belknap",
+                  "DENSITY":150.1
+               },
                "arcs":[
                   [
                      0,
@@ -20,7 +23,10 @@
             {
                "type":"Polygon",
                "id":33011,
-               "name":"Hillsborough",
+               "properties": {
+                  "NAME":"Hillsborough",
+                  "DENSITY":457.4
+               },
                "arcs":[
                   [
                      4,
@@ -34,7 +40,10 @@
             {
                "type":"Polygon",
                "id":33003,
-               "name":"Carroll",
+               "properties": {
+                  "NAME":"Carroll",
+                  "DENSITY":51.4
+               },
                "arcs":[
                   [
                      9,
@@ -48,7 +57,10 @@
             {
                "type":"Polygon",
                "id":33007,
-               "name":"Coos",
+               "properties": {
+                  "NAME":"Coos",
+                  "DENSITY":18.4
+               },
                "arcs":[
                   [
                      13,
@@ -60,7 +72,10 @@
             {
                "type":"Polygon",
                "id":33013,
-               "name":"Merrimack",
+               "properties": {
+                  "NAME":"Merrimack",
+                  "DENSITY":156.8
+               },
                "arcs":[
                   [
                      15,
@@ -75,7 +90,10 @@
             {
                "type":"Polygon",
                "id":33019,
-               "name":"Sullivan",
+               "properties": {
+                  "NAME":"Sullivan",
+                  "DENSITY":81.4
+               },
                "arcs":[
                   [
                      19,
@@ -89,7 +107,10 @@
             {
                "type":"Polygon",
                "id":33015,
-               "name":"Rockingham",
+               "properties": {
+                  "NAME":"Rockingham",
+                  "DENSITY":425
+               },
                "arcs":[
                   [
                      -18,
@@ -102,7 +123,10 @@
             {
                "type":"Polygon",
                "id":33017,
-               "name":"Strafford",
+               "properties": {
+                  "NAME":"Strafford",
+                  "DENSITY":333.7
+               },
                "arcs":[
                   [
                      -2,
@@ -116,7 +140,10 @@
             {
                "type":"Polygon",
                "id":33009,
-               "name":"Grafton",
+               "properties": {
+                  "NAME":"Grafton",
+                  "DENSITY":52.2
+               },
                "arcs":[
                   [
                      -15,
@@ -131,7 +158,10 @@
             {
                "type":"Polygon",
                "id":33005,
-               "name":"Cheshire",
+               "properties": {
+                  "NAME":"Cheshire",
+                  "DENSITY":109.1
+               },
                "arcs":[
                   [
                      -21,
