@@ -20,23 +20,26 @@ p{
     font-weight: bold; 
 }
 
-/*
-.exterior-boundary {
-	fill: none;
-	stroke: black;
-	stroke-linejoin: round;
-	stroke-width: 2px;
+div.tooltip {	
+    position: absolute;			
+    width: 350x;					
+    height: 50px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: gray;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
 }
 
-div.tooltip {
-	position: absolute;
-	text-align: center;
-	width: 75px;
-	padding: 2px;
-	font: 12px sans-serif;
-	color: white;
-	background: black;
-	border: 0px;
-	border-radius: 8px;
-	pointer-events: none;
-}*/
+.ColorButton {
+    position:absolute;
+    top: 20%;
+    left: 32%;
+}
+
+.BoundaryButton {
+    position:absolute;
+    top: 20%;
+    left: 36%;
+}
