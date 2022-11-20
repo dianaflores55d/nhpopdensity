@@ -95,6 +95,7 @@ function map(json) {
     .attr("y", -6)
     .attr("fill", "#000")
     .attr("text-anchor", "start")
+    .attr("font-size", "12px")
     .attr("font-weight", "bold")
     .text("Population per square mile");
 
